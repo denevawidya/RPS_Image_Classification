@@ -2,9 +2,9 @@
 
 - Dataset : [Kaggle - Rockpaperscissors](https://www.kaggle.com/drgfreeman/rockpaperscissors)
 
-In this project I created a model using TensorFlow to classify hand drawings and predict whether the hand represents a scissor, rock, or paper shape. TensorFlow(TF) is an end-to-end open source platform developed by Google Brain and is very popular for large-scale machine learning development.
+In this project I created a model using TensorFlow to classify hand images and predict whether the hand represents a scissor, rock, or paper shape. TensorFlow(TF) is an end-to-end open source platform developed by Google Brain and is very popular for large-scale machine learning development.
 
-Artificial neural network program using TensorFlowThis program will help identify the shape of the hand that makes up scissors, rock or paper.
+Artificial neural network program using TensorFlow. This program will help identify the shape of the hand that makes up scissors, rock or paper.
 
 ## Modelling
 
